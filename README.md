@@ -1,3 +1,3 @@
 # FLASK-Blog
 
-Python flask modülünü kullanarak Blog sayfası yapımı.
+Python flask modülünü kullanarak Blog sayfası
